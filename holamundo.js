@@ -1,7 +1,7 @@
 
 // Archivo: holamundo.js
 function holaMundo() {
-    return "Hola Munda";
+    return "Hola Mundo";
     }
 
 
